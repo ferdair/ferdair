@@ -20,13 +20,7 @@
 <!--This project is written in Python programming language. <br>-->
 The following open source packages are used in this project:
 * Javascript
-* NodeJS
-* VueJs
 * ReactJs
+* Angular
 * Java
 * Springboot
-* Python
-* C#
-* ASP.NET
-* Firebase
-* Google cloud Functions

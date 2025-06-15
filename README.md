@@ -7,7 +7,7 @@
 <h2 id="about-the-project"> :pencil: About Me</h2>
 
 <p align="justify"> 
- I'm an software engineer who constantly seeks out innovative solutions to everyday problems. In my 2 years in this industry, I've honed my analytical thinking and collaboration skills, and I love working with a team.
+ I'm an software engineer who constantly seeks out innovative solutions to everyday problems. In my years in this industry, I've honed my analytical thinking and collaboration skills, and I love working with a team.
 </p>
 
 
